@@ -1,1 +1,2 @@
 "Initial Content" 
+"The new content is added"
